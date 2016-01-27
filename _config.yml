@@ -1,7 +1,7 @@
 name: brjr
 favicon: null
-layout_spectrum: 0.7681294286157936
-typography_spectrum: 0.006288953823968768
+layout_spectrum: 1
+typography_spectrum: 0.06934
 title: Brotherjunior Photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.08961201692000031
-  lightness: 0.2554182589519769
-  saturation: 0.2574512963183224
+    - '#050505'
+    - '#6a6a6a'
+    - '#b5b5b5'
+    - '#2d2d2d'
+    - '#f9f9f9'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.3872624614741653
 purpose: []
